@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enochtan17&theme=tokyonight)
+![Enoch's GitHub stats](https://github-readme-stats.vercel.app/api?username=enochtan17&show_icons=true)
+
 <!--
 **enochtan17/enochtan17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

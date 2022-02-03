@@ -1,8 +1,12 @@
 ### Hi there 👋
 
+<a href="https://github.com/enochtan17/enochtan17">
+<img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=enochtan17&count_private=true&show_icons=true&theme=vue-dark&custom_title=My%20Stats"/>
+</a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enochtan17&theme=tokyonight)
-![Enoch's GitHub stats](https://github-readme-stats.vercel.app/api?username=enochtan17&show_icons=true)
+<a href="https://github.com/enochtan17/enochtan17">
+<img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enochtan17&count_private=true&langs_count=6&theme=vue-dark&layout=compact&custom_title=Lines%20of%20Code%20Written&exclude_repo=curriculum,github-slideshow,unified-setup,git-training&hide=mako, shell"/>
+</a>
 
 <!--
 **enochtan17/enochtan17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -5,7 +5,6 @@
 - 🏈 Ask me about anything NFL
 - ♟️ Fun fact: love playing chess
 <br>
-<br>
 
 ## Contact me
 

@@ -5,6 +5,7 @@
 - 🏈 Ask me about anything NFL
 - ♟️ Fun fact: love playing chess
 
+
 ## Contact me
 
 <a href="https://www.linkedin.com/in/enoch-tan/" target="_blank">

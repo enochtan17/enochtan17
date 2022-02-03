@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning WebSockets and GoogleMaps API
 - 🏈 Ask me about anything NFL
 - ♟️ Fun fact: love playing chess
-
+<br>
 <br>
 
 ## Contact me
@@ -15,9 +15,8 @@
 <a href="https://angel.co/u/enoch-tan-1" target="_blank">
   <img src="https://img.shields.io/badge/Angel_List-9933CC?style=for-the-badge&logo=AngelList&logoColor=white" />
 </a>
-
 <br>
-
+<br>
 
 ## Languages & Tools
 
@@ -37,7 +36,7 @@
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
+<br>
 <br>
 
 ## Github Stats

@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Enoch
 
-- 🔭 I’m currently working on my Wordle side project
-- 🌱 I’m currently learning WebSockets and GoogleMaps API
+- 🔭 I’m currently working on my AirBnB side project
+- 🌱 I’m currently learning WebSockets, GoogleMaps API, and AWS S3.
 - 🏈 Ask me about anything NFL
 - ♟️ Fun fact: love playing chess
 <br>
